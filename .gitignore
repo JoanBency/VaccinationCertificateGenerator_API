@@ -1,0 +1,6 @@
+# package directories
+VaccinationClinic_API/node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
